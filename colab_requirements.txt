@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+pyarrow>=15.0
+tqdm>=4.66
+catboost>=1.2
+implicit>=0.7; platform_system != "Windows"
